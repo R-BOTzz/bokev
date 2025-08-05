@@ -22,7 +22,7 @@
     "@cacheable/node-cache": "^1.6.1",
     "@discordjs/collection": "^2.1.1",
     "@mengkodingan/consolefy": "^1.0.1",
-    "baileys": "npm:@vreden/meta",
+    "baileys": "github:WhiskeySockets/Baileys",
     "pino": "^9.7.0",
     "vcard-parser": "^1.0.0"
   }
